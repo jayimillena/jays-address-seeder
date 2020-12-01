@@ -1,5 +1,4 @@
-jays-philippines-locations-seeder 
-  - contains the tables of region, province, street and barangay in the Phllippines
+jays-philippines-locations-seeder - contains the tables of region, province, street and barangay in the Phllippines
 
 // include the files on their respected folders
 // create schema or database 
