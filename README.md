@@ -1,13 +1,13 @@
 jays-philippines-locations-seeder - contains the tables of region, province, street and barangay in the Phllippines
 
-// include the files on their respected folders
+Include the files on their respected folders
+Create schema or database 
+If you have existing database proceed to the next comment
 
-// create schema or database 
+Do migrate
 
-// If you have existing database proceed to the next comment
-
-// do migrate
 $ php artisan migrate
 
-// seed the database
+Seed the database
+
 $ php artisan db:seed
