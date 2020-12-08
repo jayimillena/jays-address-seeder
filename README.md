@@ -4,7 +4,7 @@ Include the files on their respected folders.
 
 Create schema or database. 
 
-If you have existing database proceed to the next comment
+If you have existing database proceed to the next instruction
 
 Do migrate
 
