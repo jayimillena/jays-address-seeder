@@ -10,6 +10,6 @@ Do migrate, to create the tables
 
 $ php artisan migrate
 
-Seed the tables, to popuate the locations infos
+Seed the tables, to popuate the locations` information
 
 $ php artisan db:seed
