@@ -6,10 +6,10 @@ Create schema or database.
 
 If you have existing database proceed to the next instruction
 
-Do migrate
+Do migrate, to create the tables
 
 $ php artisan migrate
 
-Seed the database
+Seed the tables, to popuate the locations infos
 
 $ php artisan db:seed
