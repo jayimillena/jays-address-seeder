@@ -13,3 +13,5 @@ $ php artisan migrate
 Seed the tables, to popuate the locations` information
 
 $ php artisan db:seed
+
+Credits to the original author clavearnel/philippines-region-province-citymun-brgy
